@@ -5,8 +5,8 @@ function Services() {
     return <section class="page-section" id="services">
     <div class="container">
         <div class="text-center">
-            <h3 class="section-subheading text-muted">A rare combination of</h3>
             <h2 class="section-heading text-uppercase">Skills</h2>
+            <h3 class="section-subheading text-muted">A rare combination</h3>
         </div>
         <div class="row text-center">
             <div class="col-md-4">
